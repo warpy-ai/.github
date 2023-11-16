@@ -1,6 +1,6 @@
 ## Welcome to Warpy 👋
 
-![GIT](https://media4.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47tykzd9w2a6p5xuh857p5wlio90eozfwhzbf5m9ek&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIT](https://github.com/warpy-ai/lading-page/blob/new_lading/public/warpy_white_icon.svg)
 
 We are Warpy, and we're working on AI tools of tomorrow, today. Our journey began on **August 1st, 2023**. And we are working on from Software to Hardware to create an ultimate AI ecosystem.
 ### 🤖 Building the Future of AI Development
