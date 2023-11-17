@@ -16,6 +16,10 @@ We're not just users; we're contributors. We maintain several groundbreaking AI 
 - [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command
 - [tgs](https://github.com/warpy-ai/tgs) - Terminal Shell with tgs_model embeded
 
+### 🛠 Front end app
+
+- [landing-page](https://github.com/warpy-ai/lading-page)
+
 ### 📚 Further Reading
 
 Curious about our future plans? We will launch our [public roadmap](https://github.com/warpy/roadmap) soon, 🌈 and a space so you can [give us your feedback](https://github.com/warpy/feedback) if you have any ideas 💡.
