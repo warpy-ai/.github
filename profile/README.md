@@ -13,8 +13,9 @@ Are you contributing to AI development? Fantastic, you're awesome! 🌟 If not, 
 
 We're not just users; we're contributors. We maintain several groundbreaking AI tools:
 
-- [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command
-- [tgs](https://github.com/warpy-ai/tgs) - Terminal Generative Shell with tgs_model embeded
+- [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command &check;
+- [tgs](https://github.com/warpy-ai/tgs) - Terminal Generative Shell with tgs_model embeded &check;
+- [StlMnt.](https://github.com/warpy-ai/settlement) - AI Multi-Agent Consent Engine: A Framework for Decentralized Decision Making &cross;
 
 ### 🛠 Front end app
 
