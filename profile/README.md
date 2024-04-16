@@ -23,7 +23,7 @@ We're not just users; we're contributors. We maintain several groundbreaking AI 
 
 ### 📚 Further Reading
 
-Curious about our future plans? We will launch our [public roadmap](https://github.com/warpy/roadmap) soon, 🌈 and a space so you can [give us your feedback]([https://github.com/warpy/feedback](https://github.com/orgs/warpy-ai/discussions/78)) if you have any ideas 💡.
+Curious about our future plans? We will launch our [public roadmap](https://github.com/warpy/roadmap) soon, 🌈 and a space so you can [give us your feedback](https://github.com/orgs/warpy-ai/discussions/78) if you have any ideas 💡.
 
 ---
 
