@@ -1,6 +1,6 @@
 ## Welcome to Warpy 👋
 
-![GIT](https://raw.githubusercontent.com/warpy-ai/wp-portal/4418ac59b70cd80553870a1ba19c5404010353d9/public/warpy_white_icon.svg?token=AC3MZQLUA2BECB7UVU65YDLGDY7H6)
+![GIT](https://github.com/warpy-ai/wp-portal/blob/main/public/warpy_white_icon.svg)
 
 We are Warpy, and we're working on AI tools of tomorrow, today. Our journey began on **August 1st, 2023**. And we are working on from Software to Hardware to create an ultimate AI ecosystem.
 ### 🤖 Building the Future of AI Development
@@ -14,8 +14,12 @@ Are you contributing to AI development? Fantastic, you're awesome! 🌟 If not, 
 We're not just users; we're contributors. We maintain several groundbreaking AI tools:
 
 - [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command &check;
+  - [rustubble](https://github.com/warpy-ai/rustubble) - Beautifull rust components for your CLI
+ 
+    
 - [tgs](https://github.com/warpy-ai/tgs) - Terminal Generative Shell with tgs_model embeded &check;
 - [StlMnt.](https://github.com/warpy-ai/settlement) - AI Multi-Agent Consent Engine: A Framework for Decentralized Decision Making &cross;
+
 
 ### 🛠 Front end app
 
