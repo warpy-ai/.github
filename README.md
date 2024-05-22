@@ -1,6 +1,9 @@
 ## Welcome to Warpy 👋
 
-![GIT](https://media4.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47tykzd9w2a6p5xuh857p5wlio90eozfwhzbf5m9ek&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+![warpy_white_icon](https://github.com/warpy-ai/.github/assets/11979969/7449bac1-3496-4e7c-bfb1-846d951c2a18)
+
+
 
 We are Warpy, and we're working on AI tools of tomorrow, today. Our journey began on **August 1st, 2023**. And we are working on from Software to Hardware to create an ultimate AI ecosystem.
 ### 🤖 Building the Future of AI Development
@@ -13,12 +16,20 @@ Are you contributing to AI development? Fantastic, you're awesome! 🌟 If not, 
 
 We're not just users; we're contributors. We maintain several groundbreaking AI tools:
 
-- [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command
-- [tgs](https://github.com/warpy-ai/tgs) - Terminal Shell with tgs_model embeded
+- [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command &check;
+- [tgs](https://github.com/warpy-ai/tgs) - Terminal Generative Shell with tgs_model embeded &check;
+  - [bubblers](https://github.com/warpy-ai/bubblers) - Crustacean CLI that expels bubbles , with rustubble built-in
+  - [rustubble](https://github.com/warpy-ai/rustubble) - Beautifull rust components for your CLI &check;
+- [StlMnt.](https://github.com/warpy-ai/settlement) - AI Multi-Agent Consent Engine: A Framework for Decentralized Decision Making &cross;
+
+
+### 🛠 Front end app
+
+- [landing-page](https://github.com/warpy-ai/lading-page)
 
 ### 📚 Further Reading
 
-Curious about our future plans? We will launch our [public roadmap](https://github.com/warpy/roadmap) soon, 🌈 and a space so you can [give us your feedback](https://github.com/warpy/feedback) if you have any ideas 💡.
+Curious about our future plans? We will launch our [public roadmap](https://github.com/warpy/roadmap) soon, 🌈 and a space so you can [give us your feedback](https://github.com/orgs/warpy-ai/discussions/78) if you have any ideas 💡.
 
 ---
 
