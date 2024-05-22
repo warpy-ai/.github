@@ -18,6 +18,7 @@ We're not just users; we're contributors. We maintain several groundbreaking AI 
 
 - [tgs-model](https://github.com/warpy-ai/tgs-model) - A fine tunned T5 model to transform text to terminal command &check;
 - [tgs](https://github.com/warpy-ai/tgs) - Terminal Generative Shell with tgs_model embeded &check;
+  - [bubblers](https://github.com/warpy-ai/bubblers) - Crustacean CLI that expels bubbles , with rustubble built-in
   - [rustubble](https://github.com/warpy-ai/rustubble) - Beautifull rust components for your CLI &check;
 - [StlMnt.](https://github.com/warpy-ai/settlement) - AI Multi-Agent Consent Engine: A Framework for Decentralized Decision Making &cross;
 
