@@ -1,7 +1,8 @@
 ## Welcome to Warpy 👋
 
+<img src="https://github.com/user-attachments/assets/92234073-1926-4240-8b9b-907c742c7694" alt="logo2" width="120" height="auto">
 
-![warpy_white_icon](https://github.com/warpy-ai/.github/assets/11979969/7449bac1-3496-4e7c-bfb1-846d951c2a18)
+
 
 
 
